@@ -44,7 +44,7 @@ Be sure to find the latest.
 Generate the files to configure Scala IDE (Eclipse).
 
 ```
-sbt eclipse
+$ sbt eclipse
 ```
 
 Now, you can run that application with Spotlight (or Alfred) and open this project.
