@@ -7,7 +7,7 @@ but it assumes OS X with Homebrew installed.
 Before we can do anything, we need to install a few things.
 
 ```
-$ brew install scala sbt apace-spark
+$ brew install scala sbt apache-spark
 $ brew cask install scala-ide
 ```
 
